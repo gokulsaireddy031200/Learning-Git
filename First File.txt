@@ -1,3 +1,0 @@
-This is the 
-This is the first commit change.
-This one added to test branch.
